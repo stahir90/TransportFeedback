@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransportFeedback", "TransportFeedback.csproj", "{D07F8323-4B6B-4EA4-A410-6DECD5FB1FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07F8323-4B6B-4EA4-A410-6DECD5FB1FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07F8323-4B6B-4EA4-A410-6DECD5FB1FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07F8323-4B6B-4EA4-A410-6DECD5FB1FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07F8323-4B6B-4EA4-A410-6DECD5FB1FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245534B3-1314-48B7-9C3D-9E9DFD08E0F7}
+	EndGlobalSection
+EndGlobal

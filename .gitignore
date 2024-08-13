@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.rsuser
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
+
+# Logs and diagnostic reports
+*.log
+
+# Node.js dependencies
+node_modules/
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider project settings
+.idea/
